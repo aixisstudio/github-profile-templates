@@ -60,6 +60,39 @@ Building [project](link) — one-line pitch.
 - One strong project link > five weak ones
 - Pin your best 6 repos underneath — they're part of the card
 
+## 🎯 Templates by persona
+
+### The OSS Maintainer
+Minimal hero, pinned repos do the talking. Stats card + "currently maintaining" list. Signals: credibility, activity.
+
+### The Job Hunter
+Skills matrix up top, featured projects with live demos, recruiter-friendly summary. Signals: hireable, current.
+
+### The Builder
+What I'm building now / what's shipped. Changelog energy. Signals: momentum.
+
+### The Community Hub
+Links out, curation, resource lists (like this profile's repo showcase). Signals: network value.
+
+## 🧩 Widgets that actually matter
+
+| Widget | Source | Worth it? |
+|---|---|---|
+| Stats card | github-readme-stats | ✅ Instant credibility |
+| Streak | streak-stats.demolab.com | ✅ If you commit daily |
+| Trophies | github-profile-trophy | ⚠️ Fun, noisy |
+| Snake game | Platane/snk | ⚠️ Gimmick, people like it |
+| Visitor count | komarev | ❌ Vanity metric |
+| WakaTime | wakatime badge | ✅ If real data |
+| Recent activity | readme-activity | ✅ Shows aliveness |
+
+## 🚫 Anti-patterns
+
+- **Wall of badges**: >15 tech logos reads as noise, not depth. Curate to your actual stack.
+- **Random anime header**: unless it's your brand, skip.
+- **Auto-generated "about me"** that lists technologies you touched once.
+- **Broken counters**: if a badge 404s, it signals abandonment.
+
 ---
 ## Contribuer
 
