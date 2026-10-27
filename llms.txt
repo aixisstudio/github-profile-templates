@@ -1,9 +1,7 @@
 # github-profile-templates
 > Profile README templates — pick one, make it yours
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/github-profile-templates
 
-## Content
 ## 🎨 Profile README templates — pick one, make it yours
 
 Your profile README (`username/username` repo) is your GitHub business card. These templates are battle-tested patterns — copy the structure, fill in your content.
@@ -56,4 +54,9 @@ Building [project](link) — one-line pitch.
 
 - Keep it under ~30 lines — nobody scrolls
 - One strong project link > five weak ones
-- Pin your best 6 repos underneath — they're pa
+- Pin your best 6 repos underneath — they're part of the card
+
+## 🎯 Templates by persona
+
+### The OSS Maintainer
+Minimal hero, pinned repos do the 
