@@ -4,15 +4,13 @@
 
 Шаблоны README для профиля — выбери и сделай своим
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+##   Профиль README шаблоны — выберите один, сделайте его своим
 
-## 🎨 Profile README templates — pick one, make it yours
+Ваш профиль README (`username/username` repo) - это ваша визитная карточка GitHub. Эти шаблоны являются проверенными в бою шаблонами — копируйте структуру, заполняйте контент.
 
-Your profile README (`username/username` repo) is your GitHub business card. These templates are battle-tested patterns — copy the structure, fill in your content.
+###Коллекция
 
-## 📁 The collection
-
-### 🟢 Minimal — "less is more"
+### " Минимум — «меньше значит больше»
 
 ```markdown
 ### Hi, I'm Name 👋
@@ -20,7 +18,7 @@ Building [project](link) — one-line pitch.
 📍 City · 🌐 site.dev · 📫 me@mail.com
 ```
 
-### 🧑‍💻 Engineer — "stats forward"
+### """ Инженер — «статусы вперед»
 
 ```markdown
 ## Name — @handle
@@ -28,7 +26,7 @@ Building [project](link) — one-line pitch.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOU&layout=compact)
 ```
 
-### 🏷️ Badges wall — "color coded"
+### "️ Значки на стене — «цветовой код»
 
 ```markdown
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,7 +34,7 @@ Building [project](link) — one-line pitch.
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ```
 
-### 🌐 Multilingual — "world ready"
+### " Многоязычный — «мир готов»
 
 ```markdown
 **English** | [Français](README.fr.md) | [中文](README.zh.md)
@@ -44,54 +42,54 @@ Building [project](link) — one-line pitch.
 ## Hi! I'm building **X** — tagline.
 ```
 
-## 🧩 Building blocks
+##Строительные блоки
 
-| Widget | URL |
+Скриншоты Widget URL
 |---|---|
-| Stats cards | github-readme-stats.vercel.app |
+| Статистические карты | github-readme-stats.vercel.app |
 | Typing SVG | readme-typing-svg.demolab.com |
 | Streak stats | streak-stats.demolab.com |
-| Skill icons | skillicons.dev |
-| Snake animation | github-contribution-grid-snake |
+| Иконки навыков | skillsicons.dev |
+Анимация змеи | Github-contribution-grid-snake |
 
-## 💡 Pro tips
+##   Профессиональные советы
 
-- Keep it under ~30 lines — nobody scrolls
-- One strong project link > five weak ones
-- Pin your best 6 repos underneath — they're part of the card
+Держите его под ~30 строк — никто не прокручивает
+Одно сильное звено проекта > пять слабых
+Выберите ваши лучшие 6 репо под - они являются частью карты
 
-## 🎯 Templates by persona
+## Шаблоны от персоны
 
-### The OSS Maintainer
-Minimal hero, pinned repos do the talking. Stats card + "currently maintaining" list. Signals: credibility, activity.
+###Сохранитель OSS
+Минимальный герой, приколотые репо делают речь. Статистическая карта + список «в настоящее время поддерживается». Сигналы: достоверность, активность.
 
-### The Job Hunter
-Skills matrix up top, featured projects with live demos, recruiter-friendly summary. Signals: hireable, current.
+### Охотник за работой
+Навыки матрицы вверх, показаны проекты с живыми демо, рекрутера-дружественный резюме. Сигналы: наемный, текущий.
 
-### The Builder
-What I'm building now / what's shipped. Changelog energy. Signals: momentum.
+###Строитель
+То, что я сейчас строю, то, что отгружено. Энергия Changelog. Сигналы: импульс.
 
-### The Community Hub
-Links out, curation, resource lists (like this profile's repo showcase). Signals: network value.
+###Общественный центр
+Ссылки, курирование, списки ресурсов (например, витрина репо этого профиля). Сигналы: сетевая ценность.
 
-## 🧩 Widgets that actually matter
+## Виджеты, которые действительно имеют значение
 
-| Widget | Source | Worth it? |
+Источник: Достоин ли он?
 |---|---|---|
-| Stats card | github-readme-stats | ✅ Instant credibility |
-| Streak | streak-stats.demolab.com | ✅ If you commit daily |
-| Trophies | github-profile-trophy | ⚠️ Fun, noisy |
-| Snake game | Platane/snk | ⚠️ Gimmick, people like it |
-| Visitor count | komarev | ❌ Vanity metric |
-| WakaTime | wakatime badge | ✅ If real data |
-| Recent activity | readme-activity | ✅ Shows aliveness |
+| Статистическая карта | github-readme-stats |   Мгновенное доверие |
+| Streak | streak-stats.demolab.com Если вы совершаете ежедневные
+↑ Trophies | github-profile-trophy |  ️ Веселье, шум
+️ Змеиная игра | Platane/snk |  ️ Гиммик, людям это нравится
+| Количество посетителей | Комарев |   Метрика тщеславия |
+| WakaTime | wakatime badge | ✅ Если реальные данные |
+| Недавняя активность | readme-activity |   Показывает живость |
 
-## 🚫 Anti-patterns
+## tern Антипаттерны
 
-- **Wall of badges**: >15 tech logos reads as noise, not depth. Curate to your actual stack.
-- **Random anime header**: unless it's your brand, skip.
-- **Auto-generated "about me"** that lists technologies you touched once.
-- **Broken counters**: if a badge 404s, it signals abandonment.
+Стена значков: >15 технических логотипов читается как шум, а не глубина. Проверь свой настоящий стек.
+** Заголовок аниме Random**: если это не ваш бренд, пропустите.
+** Автогенерируемое «о мне»**, в котором перечислены технологии, к которым вы прикоснулись однажды.
+Сломанные счетчики: если значок 404, это сигнал отказа.
 
 ---
 ## Участие
