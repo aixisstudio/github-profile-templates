@@ -4,15 +4,13 @@
 
 プロフィール README テンプレート — 選んで自分のものに
 
-_詳細なコンテンツ（リスト・リンク・説明）は保守のため英語です。以下のセクションがガイドになります。_
+## インポート プロファイル README テンプレート — 1 つを選択し、それをあなたのものにする
 
-## 🎨 Profile README templates — pick one, make it yours
+あなたのプロフィールREADME (`username/username`レポ)はあなたのGitHub名刺です。 これらのテンプレートは戦闘テストパターンです。構造をコピーし、コンテンツを埋めます。
 
-Your profile README (`username/username` repo) is your GitHub business card. These templates are battle-tested patterns — copy the structure, fill in your content.
+## 📁コレクション
 
-## 📁 The collection
-
-### 🟢 Minimal — "less is more"
+#### 最小限 — "less is more"
 
 ```markdown
 ### Hi, I'm Name 👋
@@ -20,7 +18,7 @@ Building [project](link) — one-line pitch.
 📍 City · 🌐 site.dev · 📫 me@mail.com
 ```
 
-### 🧑‍💻 Engineer — "stats forward"
+### 💻 エンジニア — "stats Forward"
 
 ```markdown
 ## Name — @handle
@@ -28,7 +26,7 @@ Building [project](link) — one-line pitch.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOU&layout=compact)
 ```
 
-### 🏷️ Badges wall — "color coded"
+## ️️ Badges 壁 — "color coded"
 
 ```markdown
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,7 +34,7 @@ Building [project](link) — one-line pitch.
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ```
 
-### 🌐 Multilingual — "world ready"
+#### デフォルト多言語 — "世界準備"
 
 ```markdown
 **English** | [Français](README.fr.md) | [中文](README.zh.md)
@@ -44,54 +42,54 @@ Building [project](link) — one-line pitch.
 ## Hi! I'm building **X** — tagline.
 ```
 
-## 🧩 Building blocks
+## 🧩ビルブロック
 
-| Widget | URL |
+| ウィジェット | URL |
 |---|---|
-| Stats cards | github-readme-stats.vercel.app |
-| Typing SVG | readme-typing-svg.demolab.com |
-| Streak stats | streak-stats.demolab.com |
-| Skill icons | skillicons.dev |
-| Snake animation | github-contribution-grid-snake |
+| 統計カード | github-readme-stats.vercel.app |
+| ティッピングSVG | リードメ・タイピング・デモラボ |
+| スタット・スタット | streak-stats.demolab.com |
+| スキルアイコン | スキルアイコン |
+| 蛇のアニメーション | github-contribution-grid-snake |
 
-## 💡 Pro tips
+## ◀ プロのヒント
 
-- Keep it under ~30 lines — nobody scrolls
-- One strong project link > five weak ones
-- Pin your best 6 repos underneath — they're part of the card
+- ~30行以内に、誰もスクロールしない
+- 1つの強力なプロジェクトリンク > 5つの弱点
+- 下のあなたの最高の6のreposをPin —彼らはカードの一部です
 
-## 🎯 Templates by persona
+## パーソナによるテンプレート
 
-### The OSS Maintainer
-Minimal hero, pinned repos do the talking. Stats card + "currently maintaining" list. Signals: credibility, activity.
+###OSSのメンテナンス
+最小限のヒーロー、ピン留めされたレポは話します。 ステータスカード+「現在の維持」リスト。 信号:信頼性、活動。
 
-### The Job Hunter
-Skills matrix up top, featured projects with live demos, recruiter-friendly summary. Signals: hireable, current.
+###ジョブハンター
+スキルは、ライブデモ、リクルーターフレンドリーな要約で、トップ、注目のプロジェクトをマトリクスアップします。 信号: 、電流採用可能。
 
-### The Builder
-What I'm building now / what's shipped. Changelog energy. Signals: momentum.
+### ビルダー
+今、私は構築しているもの/出荷するもの。 変更ログエネルギー。 信号:勢力。
 
-### The Community Hub
-Links out, curation, resource lists (like this profile's repo showcase). Signals: network value.
+###コミュニティハブ
+リンクアウト、キュレーション、リソースリスト(このプロファイルのリポジトリショーケースのような)。 信号:ネットワークの価値。
 
-## 🧩 Widgets that actually matter
+## 実際に問題のあるウィジェット
 
-| Widget | Source | Worth it? |
+| ウィジェット | ソース | 価値あり |
 |---|---|---|
-| Stats card | github-readme-stats | ✅ Instant credibility |
-| Streak | streak-stats.demolab.com | ✅ If you commit daily |
-| Trophies | github-profile-trophy | ⚠️ Fun, noisy |
-| Snake game | Platane/snk | ⚠️ Gimmick, people like it |
-| Visitor count | komarev | ❌ Vanity metric |
-| WakaTime | wakatime badge | ✅ If real data |
-| Recent activity | readme-activity | ✅ Shows aliveness |
+| ステータスカード | github-readme-stats | ✅ 即時信頼性 |
+| ストリーク | streak-stats.demolab.com | ✅ 日々コミットするなら |
+| トロフィー | github-profile-trophy | ✨
+| スネークゲーム | プラタン/スンク | ✨
+| 来場者数 | 駒修正 | 〇 虚栄心メトリック |
+| WakaTime | wakatimeバッジ | ✅ 実データ |
+| 最近の活動 | readme-active | ✅ ライブネス |
 
-## 🚫 Anti-patterns
+## 反パターン
 
-- **Wall of badges**: >15 tech logos reads as noise, not depth. Curate to your actual stack.
-- **Random anime header**: unless it's your brand, skip.
-- **Auto-generated "about me"** that lists technologies you touched once.
-- **Broken counters**: if a badge 404s, it signals abandonment.
+- **バッジの壁**:>15の技術のロゴは、深さではなく騒音として読みます。 実際のスタックにキュレーションします。
+- **ランダムアニメヘッダ**:ブランドがなければ、スキップします。
+-**自動生成された "about me"** は、一度タッチした技術をリストします。
+- **壊れたカウンター**:バッジ404sなら、それは放棄を信号します。
 
 ---
 ## 貢献
