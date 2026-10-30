@@ -4,15 +4,13 @@
 
 个人主页 README 模板 — 选一个，变成你的
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+□ 配置 README 模板—— 选一个, 把它变成你的
 
-## 🎨 Profile README templates — pick one, make it yours
+您的配置 README( `username/username` repo) 是您的 GitHub 名片 。 这些模板是战斗测试的模式——复制结构,填写内容.
 
-Your profile README (`username/username` repo) is your GitHub business card. These templates are battle-tested patterns — copy the structure, fill in your content.
+□□□□□□□□□ collection集.
 
-## 📁 The collection
-
-### 🟢 Minimal — "less is more"
+(笑声) (掌声)
 
 ```markdown
 ### Hi, I'm Name 👋
@@ -20,7 +18,7 @@ Building [project](link) — one-line pitch.
 📍 City · 🌐 site.dev · 📫 me@mail.com
 ```
 
-### 🧑‍💻 Engineer — "stats forward"
+工程师——"统计前进".
 
 ```markdown
 ## Name — @handle
@@ -28,7 +26,7 @@ Building [project](link) — one-line pitch.
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOU&layout=compact)
 ```
 
-### 🏷️ Badges wall — "color coded"
+徽章墙 — “ 颜色编码 ”
 
 ```markdown
 ![python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -36,7 +34,7 @@ Building [project](link) — one-line pitch.
 ![linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ```
 
-### 🌐 Multilingual — "world ready"
+多语种——"世界就绪".
 
 ```markdown
 **English** | [Français](README.fr.md) | [中文](README.zh.md)
@@ -44,54 +42,54 @@ Building [project](link) — one-line pitch.
 ## Hi! I'm building **X** — tagline.
 ```
 
-## 🧩 Building blocks
+□ 构件
 
-| Widget | URL |
+部件 URL
 |---|---|
-| Stats cards | github-readme-stats.vercel.app |
-| Typing SVG | readme-typing-svg.demolab.com |
-| Streak stats | streak-stats.demolab.com |
-| Skill icons | skillicons.dev |
-| Snake animation | github-contribution-grid-snake |
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}请检查date=中的日期值
+QQ 打字 SVG | readme-typping-svg.demolab.com |.
+互联网档案馆的存檔,存档日期2013-03-02.
+* 技能图标 * * tiskicons.dev * *
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}蛇的动画 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}是的 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}
 
-## 💡 Pro tips
+##### 专业小费
 
-- Keep it under ~30 lines — nobody scrolls
-- One strong project link > five weak ones
-- Pin your best 6 repos underneath — they're part of the card
+- 保持到~30行 - 没有人卷轴
+- 一个强有力的项目联系 > 五个薄弱环节
+- 把你最好的6套套套在下面 - 他们是卡片的一部分
 
-## 🎯 Templates by persona
+#### 由个人制作的模板a
 
-### The OSS Maintainer
-Minimal hero, pinned repos do the talking. Stats card + "currently maintaining" list. Signals: credibility, activity.
+OSS 维护者
+最小的英雄,被钉住 重新说话。 Stats卡+"目前维护"列表. 信号:信誉,活动.
 
-### The Job Hunter
-Skills matrix up top, featured projects with live demos, recruiter-friendly summary. Signals: hireable, current.
+工作猎人
+技能矩阵向上,突出项目有现场演示、方便招聘者的摘要。 信号:可雇用,可流.
 
-### The Builder
-What I'm building now / what's shipped. Changelog energy. Signals: momentum.
+建构器
+我所建造的 运来的 变换日志能量. 信号:动力.
 
-### The Community Hub
-Links out, curation, resource lists (like this profile's repo showcase). Signals: network value.
+社区中心
+链接出, 校验, 资源列表( 如此配置文件的 repo 显示) 。 信号:网络值.
 
-## 🧩 Widgets that actually matter
+□ □ □ 部件实际上很重要
 
-| Widget | Source | Worth it? |
+~ 部件 ~ 来源 ~ 值得吗 ~
 |---|---|---|
-| Stats card | github-readme-stats | ✅ Instant credibility |
-| Streak | streak-stats.demolab.com | ✅ If you commit daily |
-| Trophies | github-profile-trophy | ⚠️ Fun, noisy |
-| Snake game | Platane/snk | ⚠️ Gimmick, people like it |
-| Visitor count | komarev | ❌ Vanity metric |
-| WakaTime | wakatime badge | ✅ If real data |
-| Recent activity | readme-activity | ✅ Shows aliveness |
+{\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}史塔兹卡 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}我读了我的数据 {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}我马上要相信
+(原始内容存档于2018-09-21). Streak QQ streak - stats.demolab.com. 如果你每天犯错...
+欢乐 吵闹
+Gimmiick, 喜欢的人
+访问者数 komarev 虚度度度 度量度
+如果真有数据的话
+*最近的活动 * * readme-activity * * * 显示生命 * * *
 
-## 🚫 Anti-patterns
+□□□□□□□□□□□□□□□
 
-- **Wall of badges**: >15 tech logos reads as noise, not depth. Curate to your actual stack.
-- **Random anime header**: unless it's your brand, skip.
-- **Auto-generated "about me"** that lists technologies you touched once.
-- **Broken counters**: if a badge 404s, it signals abandonment.
+- ** 徽章栏目**: >15个技术标志读作噪音,而不是深度。 咒骂你真正的堆栈。
+除非是你的品牌,跳过
+- 自动生成的"关于我" 列出了你曾经接触过的技术
+- **Broken计数器**:如果徽章为404,则表示放弃.
 
 ---
 ## 贡献
